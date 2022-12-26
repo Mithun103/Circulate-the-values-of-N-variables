@@ -20,12 +20,9 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-    ```
-
-## Output:
+```
+## output
+ 
 ![Screenshot from 2022-12-26 18-24-53](https://user-images.githubusercontent.com/118344695/209552396-c8751233-a9d2-46de-a0a6-06cd39f59d8c.png)
-
-
-
-## Result:
+## result
 the program executed successfully
